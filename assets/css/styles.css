@@ -210,7 +210,7 @@ table th {
 
 .top3-content {
     max-width: 80rem;
-    height: 100vh;
+    min-height: 100vh;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
